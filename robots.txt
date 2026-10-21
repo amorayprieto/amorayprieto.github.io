@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://amorayprieto.github.io/sitemap.xml
+Sitemap: https://adrienmora.fr/sitemap.xml
